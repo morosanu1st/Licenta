@@ -1,0 +1,30 @@
+INPUT file for PIC1d3vEM code
+Version 01
+*****************************
+Details are given in Notebook 5 and in code documentation.
+*****************************#
+qme=-1
+qmi=0.01
+qse=-6.9066e-7
+qsi=+6.9066e-7
+VTe=0.0041553
+VTi=4.1553e-4
+Uxe=0
+Uye=0
+Uze=0
+Uxi=0
+Uyi=0
+Uzi=0
+ex0=0
+ey0=0
+ez0=0
+bx0=0
+by0=0
+bz0=0.0027002
+m=5000
+nt=10
+np=4000000
+c=0.9
+sp=0
+sv=0
+*****************************
